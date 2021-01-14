@@ -3,8 +3,8 @@
 ## Overview 
 The purpose of this analysis is to convince investors a bike-sharing program in Des Moines is a solid business. Using visualizations containing the data from a successful bike-sharing program to solidify the proposal.
 
-## Results:
-[Link to dashboard](https://public.tableau.com/profile/carmen7359#!/vizhome/NYC_CitiBike_Challenge_16036756167460/Bikesharingisasolidbusiness)
+## Results
+[Link to dashboard]https://public.tableau.com/profile/carmen7359#!/vizhome/NYC_CitiBike_Challenge_16036756167460/Bikesharingisasolidbusiness
 
 ![](https://github.com/Coachnmomof3/bikesharing_/blob/main/Images/Checkout%20Times%20for%20Users.png)
 * Checkout Times for Users
@@ -30,7 +30,7 @@ well as 5 - 7pm in NYC. We see all groups decrease from 10am to 4pm.
     * There is not a day where the male bike riders have the heavier
 bike traffic.
 
-# Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+# Summary
 
 In the analysis of CitiBike Rentals in NYC shows that weekends tend to be less active compared to the weekdays for Male Subscribers. A customer based platform may not give the best insight but a subscriber based one may be better. Des Moines in comparison to NYC can be completely missleading being that the population in NYC maybe greater, to point out the heavy traffic flow in NYC. This analysis shows that this program if possible should be treated as a piolet to see how well it actually does in this location.
 
