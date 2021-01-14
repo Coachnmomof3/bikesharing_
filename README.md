@@ -4,22 +4,28 @@
 The purpose of this analysis is to convince investors a bike-sharing program in Des Moines is a solid business. Using visualizations containing the data from a successful bike-sharing program to solidify the proposal.
 
 ## Results:
-![https://public.tableau.com/profile/carmen7359#!/vizhome/NYC_CitiBike_Challenge_16036756167460/Bikesharingisasolidbusiness](Link to dashboard)
-* Checkout Times for Users
-    * Here we see all groups decrease as they are most likely using
-public or private transit later in the day. We see female riders are lower during early mornings in NYC, could be because of having a family and having to transport them to day care or school. We also see male riders are greater during early mornings in NYC, could be due to traffic during their work commute. We see all groups decrease as they are most likely using public or private transit later in the day.
+(https://public.tableau.com/profile/carmen7359#!/vizhome/NYC_CitiBike_Challenge_16036756167460/Bikesharingisasolidbusiness)[Link to dashboard]
 
+(https://github.com/Coachnmomof3/bikesharing_/blob/main/Images/Checkout%20Times%20for%20Users.png)
+* Checkout Times for Users
+    * Here we see all groups decrease as they are most 
+ikely using public or private transit later in the day. We see female riders are lower during early mornings in NYC, could be because of having a family and having to transport them to day care or school. We also see male riders are greater during early mornings in NYC, could be due to traffic during their work commute. We see all groups decrease as they are most likely using public or private transit later in the day.
+
+(https://github.com/Coachnmomof3/bikesharing_/blob/main/Images/Checkout%20Times%20by%20Gender.png)
 * Checkout Times by Gender
     * Here we see riders are greater during early mornings in
 NYC, could be due to traffic during their work commute. We see all groups decrease as they are most likely using public or private transit later in the day.
 
+(https://github.com/Coachnmomof3/bikesharing_/blob/main/Images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 * Trips by Gender (Weekday per Hour)
     * The male bike rider has the heavier bike traffic for the week during the hours of 6 - 8am and 5 - 7pm.
 
+(https://github.com/Coachnmomof3/bikesharing_/blob/main/Images/Trips%20by%20Weekday%20for%20Per%20Hour.png)
 * Trips by Weekday for Per Hour
     * Here we see bike activiy between 6 - 8am during the week day as
 well as 5 - 7pm in NYC. We see all groups decrease from 10am to 4pm.
 
+(https://github.com/Coachnmomof3/bikesharing_/blob/main/Images/User%20Trips%20by%20Gender%20by%20Weekday.png)
 * User Trips by Gender by Weekday
     * There is not a day where the male bike riders have the heavier
 bike traffic.
