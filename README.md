@@ -4,8 +4,10 @@
 The purpose of this analysis is to convince investors a bike-sharing program in Des Moines is a solid business. Using visualizations containing the data from a successful bike-sharing program to solidify the proposal.
 
 ## Results
+
 [Link to dashboard](https://public.tableau.com/profile/carmen7359#!/vizhome/NYC_CitiBike_Challenge_16036756167460/Bikesharingisasolidbusiness)
 
+### Images and Analysis
 ![](https://github.com/Coachnmomof3/bikesharing_/blob/main/Images/Checkout%20Times%20for%20Users.png)
 * Checkout Times for Users
     * Here we see all groups decrease as they are most 
